@@ -1,0 +1,4 @@
+cron:
+- description: dummy request to remain instance
+  url: /dummy
+  schedule: every 2 minutes
